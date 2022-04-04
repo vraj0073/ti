@@ -1,0 +1,13 @@
+.logincontainer{
+    width: 20%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+#buttonlogin{
+    background-color: darkcyan;
+}
+
+#link{
+    color: darkcyan;
+}
